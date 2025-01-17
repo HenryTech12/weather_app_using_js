@@ -22,8 +22,8 @@ A simple web-based weather application that fetches and displays weather data us
 4. Modify `style.css` for customization.
 
 ## Dependencies
-- JavaScript Fetch API.
-- A weather API: OpenWeatherMap.
+- JavaScript Fetch API (or an alternative library like Axios if needed)
+- A weather API (e.g., OpenWeatherMap or WeatherAPI)
 
 ## Future Enhancements
 - Add search functionality for different cities.
@@ -31,4 +31,4 @@ A simple web-based weather application that fetches and displays weather data us
 - Implement local storage for saving preferences.
 
 ## Author
-- Henry Tech.
+- [Your Name]
